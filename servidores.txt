@@ -1,0 +1,13 @@
+# Lista de servidores dns do Brasil
+
+#Cloudfare DNS
+1.1.1.1 1.0.0.1
+
+#Cloudfare DNS protect
+1.1.1.3 1.0.0.3
+
+#Google Public DNS
+8.8.8.8 8.8.4.4
+
+#AdGuard DNS protect
+94.140.14.15 94.140.15.16
